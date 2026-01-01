@@ -1,5 +1,5 @@
 {
-  "name": "mcp-gluestack-ui",
+  "name": "gluestack-ui-v3-mcp-server",
   "version": "1.0.0",
   "main": "dist/index.js",
   "type": "module",
